@@ -10,6 +10,7 @@ The design and developement of this project is done with the help of research pa
 * What: Wiper Control System
 * Where: Used in all motorized vehicles
 * When: Used to remove water, rain, snow or debris from a vehicle's front window
+* Who- People driving the motorized vehicles
 * How: The placement of wiper is based on the LED and and it returns to its normal position after cleaning the windscreen of the motor 
 
 ## SWOT ANALYSIS:
